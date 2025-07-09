@@ -2,7 +2,8 @@
 How Do I Enter Norton Product Key?
 ##################
 
- <meta name="msvalidate.01" content="79062439FF46DE4F09274CF8F25244E0" />
+ .. meta::
+   :msvalidate.01:79062439FF46DE4F09274CF8F25244E0
 
 .. image:: blank.png
    :width: 350px
